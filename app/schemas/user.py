@@ -32,7 +32,7 @@ class GithubUserData(GithubUserInfoData):
     location: str | None
     email: str | None
     hireable: str | None
-    bio: str
+    bio: str | None
     twitter_username: str | None
     public_repos: int
     public_gists: int
