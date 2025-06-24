@@ -44,3 +44,7 @@ Componentes-Chave de um Changelog:
 - Item
 
 -->
+
+## v1.0.0 - 24-06-2025
+
+### A primeira versão oficial utilizável

@@ -2,11 +2,10 @@
 
 ## To Be Evaluated
 
-<!-- - [ ] Lorem -->
+- [ ] Criar endpoints de Dashboard
 
 ## To Do
 
-- [ ] Inicial estrutura Java + Spring
 - [ ] Criar workflow de testes
 
 ## Doing
@@ -15,4 +14,5 @@
 
 ## Done
 
-<!-- - [ ] Lorem -->
+- [x] Iniciar estrutura Python + FastAPI
+- [x] Documentar microsserviço a nível de código
